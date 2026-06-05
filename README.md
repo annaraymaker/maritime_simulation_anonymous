@@ -62,6 +62,26 @@ breached or all time slots are exhausted.
 
 ---
 
+## Testbed Network Topology
+
+The file `testbed_network.pdf` contains the full network architecture 
+diagram of the physical maritime testbed used in this research. It 
+illustrates how the testbed components are interconnected across the 
+three protocol layers studied in the paper:
+
+- **Serial layer** (NMEA 0183 / IEC 61162-1): AIS transponder, GPS 
+  receiver, and other sensor outputs
+- **CAN bus layer** (NMEA 2000 / IEC 61162-3): autopilot controller, 
+  engine interface, and navigation instruments
+- **Ethernet layer** (IEC 61162-450): MFD, SignalK server, Digital 
+  Switching Unit, and IP-based gateways
+
+The diagram is provided as a reference for researchers seeking to 
+reproduce or extend the testbed, and to illustrate the representative 
+coverage of our setup relative to real-world vessel deployments.
+
+
+
 ## Pipeline
 
 ```
