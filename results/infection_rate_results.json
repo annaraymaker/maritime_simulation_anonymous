@@ -1,0 +1,212 @@
+{
+	"1pct": {
+		"Panama_Canal": {
+			"time_to_infection_hours": 1209.75,
+			"degrees_of_separation_hops": 19,
+			"collateral_damage": 1024
+		},
+		"Cape_of_Good_Hope": {
+			"time_to_infection_hours": 784.46,
+			"degrees_of_separation_hops": 12,
+			"collateral_damage": 733
+		},
+		"Gibraltar": {
+			"time_to_infection_hours": 544.75,
+			"degrees_of_separation_hops": 6,
+			"collateral_damage": 319
+		},
+		"Bosporus": {
+			"time_to_infection_hours": 462.58,
+			"degrees_of_separation_hops": 9,
+			"collateral_damage": 245
+		},
+		"Suez_Canal": {
+			"time_to_infection_hours": 351.13,
+			"degrees_of_separation_hops": 7,
+			"collateral_damage": 43
+		},
+		"Strait_of_Hormuz": {
+			"time_to_infection_hours": 2.23,
+			"degrees_of_separation_hops": 3,
+			"collateral_damage": 3
+		},
+		"Bab_el_Mandeb": {
+			"time_to_infection_hours": 204.1,
+			"degrees_of_separation_hops": 6,
+			"collateral_damage": 31
+		},
+		"Strait_of_Malacca": {
+			"time_to_infection_hours": 435.22,
+			"degrees_of_separation_hops": 6,
+			"collateral_damage": 206
+		}
+	},
+	"2.5pct":{
+		"Panama_Canal": {
+			"time_to_infection_hours": 1005.54,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 2562
+		},
+		"Cape_of_Good_Hope": {
+			"time_to_infection_hours": 523.28,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 1869
+		},
+		"Gibraltar": {
+			"time_to_infection_hours": 520.84,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 1863
+		},
+		"Bosporus": {
+			"time_to_infection_hours": 393.1,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 611
+		},
+		"Suez_Canal": {
+			"time_to_infection_hours": 320.3,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 169
+		},
+		"Strait_of_Hormuz": {
+			"time_to_infection_hours": 2.23,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 7
+		},
+		"Bab_el_Mandeb": {
+			"time_to_infection_hours": 174.88,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 89
+		},
+		"Strait_of_Malacca": {
+			"time_to_infection_hours": 302.84,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 132
+		}
+	},
+	"5pct":{
+		"Panama_Canal": {
+			"time_to_infection_hours": 270.89,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 4113
+		},
+		"Cape_of_Good_Hope": {
+			"time_to_infection_hours": 478.41,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 5516
+		},
+		"Gibraltar": {
+			"time_to_infection_hours": 253.42,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 3921
+		},
+		"Bosporus": {
+			"time_to_infection_hours": 280.48,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 4305
+		},
+		"Suez_Canal": {
+			"time_to_infection_hours": 217.05,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 2779
+		},
+		"Strait_of_Hormuz": {
+			"time_to_infection_hours": 0.23,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 11
+		},
+		"Bab_el_Mandeb": {
+			"time_to_infection_hours": 115.7,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 1894
+		},
+		"Strait_of_Malacca": {
+			"time_to_infection_hours": 157.91,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 2386
+		}
+	},
+	"7.5pct":{
+		"Panama_Canal": {
+			"time_to_infection_hours": 270.86,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 6798
+		},
+		"Cape_of_Good_Hope": {
+			"time_to_infection_hours": 302.08,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 7279
+		},
+		"Gibraltar": {
+			"time_to_infection_hours": 251.77,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 6232
+		},
+		"Bosporus": {
+			"time_to_infection_hours": 242.8,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 5737
+		},
+		"Suez_Canal": {
+			"time_to_infection_hours": 217.05,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 4271
+		},
+		"Strait_of_Hormuz": {
+			"time_to_infection_hours": 0.23,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 17
+		},
+		"Bab_el_Mandeb": {
+			"time_to_infection_hours": 115.68,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 2967
+		},
+		"Strait_of_Malacca": {
+			"time_to_infection_hours": 139.8,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 3498
+		}
+	},
+	"10pct":{
+		"Panama_Canal": {
+			"time_to_infection_hours": 270.85,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 9784
+		},
+		"Cape_of_Good_Hope": {
+			"time_to_infection_hours": 176.18,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 5609
+		},
+		"Gibraltar": {
+			"time_to_infection_hours": 227.67,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 6763
+		},
+		"Bosporus": {
+			"time_to_infection_hours": 200.26,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 5939
+		},
+		"Suez_Canal": {
+			"time_to_infection_hours": 199.92,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 5923
+		},
+		"Strait_of_Hormuz": {
+			"time_to_infection_hours": 0.0,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 19
+		},
+		"Bab_el_Mandeb": {
+			"time_to_infection_hours": 115.83,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 4663
+		},
+		"Strait_of_Malacca": {
+			"time_to_infection_hours": 15.75,
+			"degrees_of_separation_hops": 1,
+			"collateral_damage": 166
+		}
+	}
+}
